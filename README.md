@@ -11,3 +11,6 @@ Extract windows lock screen pictures, convert to jpg, and save them to a folder.
 - In the windows powershell, run `sh getLockScreenPic.sh`
 
 You will find your lock screen pictures saved in your `C:\Users\Username\Desktop\LockScreenPics` folder.
+
+## Automation
+Follow this [instruction](https://www.windowscentral.com/how-create-automated-tasks-windows-11) to schedule your periodical task in Windows.
